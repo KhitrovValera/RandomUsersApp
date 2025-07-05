@@ -57,4 +57,7 @@ Android-приложение, созданное с использованием
 | :-----------------: | :-----------------: |
 | ![Скриншот списка пользователей](https://github.com/user-attachments/assets/339774b9-8e3e-4a62-8533-287ddaf4fade) | ![Скриншот деталей пользователя](https://github.com/user-attachments/assets/4b1fa6c1-826f-4917-b428-251d808b793e) |
 
+Автор иконки приложения:
+![изображение](https://github.com/user-attachments/assets/098534f8-564d-4808-b450-b97cd5a0a35e)
+
 Ссылка на проект: [https://github.com/KhitrovValera/RandomUsersApp](https://github.com/KhitrovValera/RandomUsersApp)
