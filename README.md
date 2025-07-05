@@ -56,8 +56,8 @@ Android-приложение, созданное с использованием
 | Экран списка пользователей | Экран деталей пользователя |
 | :-----------------: | :-----------------: |
 | ![Скриншот 1](![изображение](https://github.com/user-attachments/assets/339774b9-8e3e-4a62-8533-287ddaf4fade)
-) | ![Скриншот 2](![изображение](https://github.com/user-attachments/assets/4b1fa6c1-826f-4917-b428-251d808b793e)
-) |
+ | ![Скриншот 2](![изображение](https://github.com/user-attachments/assets/4b1fa6c1-826f-4917-b428-251d808b793e)
+ |
 
 
 Ссылка на проект: [https://github.com/KhitrovValera/RandomUsersApp](https://github.com/KhitrovValera/RandomUsersApp)
